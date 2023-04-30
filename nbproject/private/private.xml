@@ -3,24 +3,38 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/manejoDatos/IAccesoDatos.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/manejoDatos/GrupoDAO.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/manejoDatos/ExisteDAO.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/manejoDatos/IExiste.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/VentanasProAula/VentanaMostrarTabla.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proyectodeinvestigacion/domain/Profesor.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/servicios/ProyectosService.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/manejoDatos/ProfesorDAO.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/manejoDatos/PersonaDAO.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/manejoDatos/IAccesoDatos.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/presentacion/VentanaInicio.java</file>
             <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/config/Correos.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/VentanasProAula/VentanaProfesor.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/manejoDatos/LoginDAO.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proyectodeinvestigacion/domain/ProyectoInvestigacion.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/VentanasProAula/VentanaInicio.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proyectodeinvestigacion/main/Principal.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/servicios/ILoginService.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/manejoDatos/ExisteDAO.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/presentacion/VentanaMostrarTabla.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/manejoDatos/EstudianteDAO.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/servicios/IService.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/domain/Grupo.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/nbproject/build-impl.xml</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/domain/ProyectoInvestigacion.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/servicios/IProyectos.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/domain/Login.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/servicios/GrupoService.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/servicios/IGrupoService.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/manejoDatos/ILogin.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/manejoDatos/GrupoDAO.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/manejoDatos/IExiste.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/domain/Persona.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/manejoDatos/ProyectoInvestigacionDAO.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/servicios/PersonaService.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/manejoDatos/LoginDAO.java</file>
             <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/config/Conexion.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/manejoDatos/ProfesorDAO.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/manejoDatos/EstudianteDAO.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proyectodeinvestigacion/domain/Login.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proyectodeinvestigacion/domain/Persona.java</file>
-            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proyectodeinvestigacion/domain/Estudiante.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/domain/Profesor.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/presentacion/VentanaAdministrarPersonas.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/domain/Estudiante.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/wq/d.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/manejoDatos/IGrupoDAO.java</file>
+            <file>file:/D:/INGENIERIA%20DE%20SISTEMA/SEMESTRE%204/PRO_AULA/Proaula/src/proaula/JJ/servicios/LoginService.java</file>
         </group>
     </open-files>
 </project-private>

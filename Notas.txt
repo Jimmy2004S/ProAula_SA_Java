@@ -1,9 +1,0 @@
-Base de datos actualiza
-
-falta arreglar detalles de interfaz y algunos detalles de validaciones y
-mejor funcionalidad.
-
-
-
-
-

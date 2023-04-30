@@ -7,46 +7,52 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 
 public class Conexion {
     
-    public PreparedStatement ps;
-    public Connection conn = null;
-    public Statement st = null;
-    public ResultSet rs = null;
-    String url = "jdbc:mysql://localhost:3306/proyectosi";
-    String user = "root";
-    String password = "";
+
+    private static final String url = "jdbc:mysql://localhost:3306/proyectosi";
+    private static final String user = "root";
+    private static String password = "";
     
-    public Connection Conexion(){
+       public void ss (){
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            conn = DriverManager.getConnection(url, user, password);
-            System.out.println("Conexion establecida");
-        } catch (Exception e) {
-            System.out.println("No se pudo conectar: "+e);
+        } catch (ClassNotFoundException ex) {
+            Logger.getLogger(Conexion.class.getName()).log(Level.SEVERE, null, ex);
         }
-        return conn;
+    }
+    
+    
+ public static Connection getConnection() throws SQLException {
+        return DriverManager.getConnection(url, user, password);
     }
    
-    public void cerrarFlujo(Connection conn){
+    public static void cerrarFlujo(Connection conn){
         try {
             conn.close();
         } catch (SQLException ex) {
             ex.printStackTrace(System.out);
         }
     }
-     public void cerrarFlujo(PreparedStatement ps){
+     public static void cerrarFlujo(PreparedStatement ps){
         try {
-            conn.close();
+            if(ps != null){
+                ps.close();
+            }
         } catch (SQLException ex) {
             ex.printStackTrace(System.out);
         }
     }
-     public void cerrarFlujo(ResultSet rs){
+     
+     public static void cerrarFlujo(ResultSet rs){
         try {
-            conn.close();
+            if(rs != null){
+                rs.close();
+            }
         } catch (SQLException ex) {
             ex.printStackTrace(System.out);
         }
